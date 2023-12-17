@@ -1,4 +1,4 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Desafio 01: Landing Page com HTML e CSS
 
 In this challenge, we built our first Landing Page with HTML and CSS based on a prototype in Figma, putting into practice the fundamentals of CSS,
 the basic properties of the stylization language, in addition to working with the relative and absolute units of measurement that we learned along the trail.
